@@ -7,9 +7,8 @@ The script simplifies installing the portable version of ComfyUI to executing a 
 Requirements:
 Visual C++ Redistributable Runtimes All-in-One must be installed.
 
-1. Place the .bat file in an empty folder which will become your main ComfyUI folder.
-2. run it :-)
-3. Start ComfyUI by simply running the comfy .bat file of your choice in the newly created map.
+1. Place the .bat file in an empty folder which will become your main ComfyUI folder and run the script.
+2. Start ComfyUI by simply running the comfy .bat file of your choice in the newly created map.
 
 _And then?_
 - Place all your models in the central models folder from now on.
