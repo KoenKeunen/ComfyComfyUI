@@ -1,7 +1,7 @@
 # Comfy ComfyUI
 A comfy Windows portable ComfyUI installer :-)
 
-The script simplifies installing the portable version of ComfyUI to executing a single .bat file which handles everything for you.
+The script simplifies installing the portable version of ComfyUI to executing a single .bat file which handles everything, making working with multiple versions with one shared models folder super easy.
 
 # Instructions
 Requirements:
