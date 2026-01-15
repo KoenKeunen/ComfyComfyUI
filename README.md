@@ -1,7 +1,7 @@
 # Comfy ComfyUI
 A comfy Windows portable ComfyUI installer :-)
 
-The script simplifies installing the portable version of ComfyUI to executing a single .bat file, including preserving your models and activating the manager.
+The script simplifies installing the portable version of ComfyUI to executing a single .bat file.
 
 # Instructions
 1. Place the .bat file in an empty folder and run it :-)
@@ -10,7 +10,7 @@ The script simplifies installing the portable version of ComfyUI to executing a 
 _And then?_
 - Place all your models in the central models folder from now on.
 - Run the script every time a new portable version is available.
-- Simply delete old versions by deleting the folder :-)
+- Simply delete old ComfyUI versions by deleting their folder.
 
 # What the script does step by step:
 1. It searches for the latest ComfyUI Portable version from https://github.com/Comfy-Org/ComfyUI/releases and checks if this version number is already installed in the folder where the script is run.
