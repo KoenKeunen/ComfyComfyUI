@@ -5,10 +5,11 @@ The script simplifies installing the portable version of ComfyUI to executing a 
 
 # Instructions
 1. Place the .bat file in an empty folder and run it :-)
-2. Start ComfyUI by simply running the .bat file in the created folder :-)
+2. Start ComfyUI by simply running the .bat file in the created folder.
+
 _And then?_
-- Place all your models in the central models folder from now on :-)
-- Run the script every time a new portable version is available :-)
+- Place all your models in the central models folder from now on.
+- Run the script every time a new portable version is available.
 - Simply delete old versions by deleting the folder :-)
 
 # What the script does step by step:
