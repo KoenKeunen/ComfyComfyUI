@@ -5,7 +5,7 @@ The script simplifies installing the portable version of ComfyUI to executing a 
 
 # Instructions
 1. Place the .bat file in an empty folder and run it :-)
-2. Start ComfyUI by simply running the .bat file in the created folder.
+2. Start ComfyUI by simply running the comfy .bat file of your choice in the created folder.
 
 _And then?_
 - Place all your models in the central models folder from now on.
